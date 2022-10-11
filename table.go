@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"termtables/term"
+	"github.com/abelzhou/termtables/term"
 )
 
 // MaxColumns represents the maximum number of columns that are available for
