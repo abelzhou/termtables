@@ -1,4 +1,4 @@
-module termtables
+module github.com/abelzhou/termtables
 
 go 1.18
 
